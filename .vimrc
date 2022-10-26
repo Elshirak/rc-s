@@ -31,3 +31,4 @@ set updatetime=300
 set ignorecase
 inoremap {<cr> {}<left><cr><up><right><cr>
 inoremap <c-c> <c-o>:w!<cr>
+:set mouse=a
